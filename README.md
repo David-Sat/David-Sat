@@ -1,14 +1,11 @@
-### Hi, I'm David
-I'm always working on a cool project. Check out my [personal website](https://www.davidsatomi.com/) to see what I'm working on or write me on LinkedIn!
+### David Satomi
 
- [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/david-satomi-47b502159/)
- [<img alt="Personal Website" src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" >](https://www.davidsatomi.com/)
+Solutions engineer and software developer working on agent tooling, developer workflows, and web experiments.
 
-<!--
-### Education 🎓
-- **Master’s degree** at Technical University of Munich
-  - **Exchange Semester** at NCKU, Taiwan
-- **Bachelor's degree** at Technical University of Munich
-  - **Exchange Semester** at Université der Bordeaux
+Currently working on:
+- [lux-edit](https://github.com/David-Sat/lux-edit): in-browser visual editing and annotation overlay for AI coding agents via MCP.
+- [agpx](https://github.com/David-Sat/agpx): package manager to install skills and MCP servers across agents (Antigravity, Claude Code, Cursor, Zed).
+- [litfass](https://github.com/David-Sat/litfass): zero-backend local event discovery curated and updated by autonomous agents.
+- [harness-inventory](https://github.com/David-Sat/harness-inventory): tracking tools and capabilities exposed by frontier agent harnesses.
 
--->
+[davidsatomi.com](https://www.davidsatomi.com/) · [LinkedIn](https://www.linkedin.com/in/david-satomi-47b502159/)
